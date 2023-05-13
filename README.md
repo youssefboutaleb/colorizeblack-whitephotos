@@ -5,7 +5,9 @@ This is an academic project titled "Colorize Black-White Photos" aims to develop
 
 
 
-<center><div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_ENIS_Sfax.png" /></div></center>
+<center><p align="center" width="100%"><img src="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_ENIS_Sfax.png" /></p></center>
+
+    
 
 
 
