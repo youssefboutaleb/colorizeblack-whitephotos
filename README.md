@@ -12,8 +12,8 @@ This is an academic project titled "Colorize Black-White Photos" aims to develop
 
 
 ## Presentaion & Code
-* [Presentation](https://github.com/youssefboutaleb/colorizeblack-whitephotos/blob/main/presentation.pptx)
-
+* [Presentation pptx](https://github.com/youssefboutaleb/colorizeblack-whitephotos/blob/main/presentation.pptx)
+* [Presentation online](https://docs.google.com/presentation/d/15d1LXDYWyUhgxngPRQK8sQKjRysBcKfTF4qqER584Z4/edit?usp=sharing)
 * [Code.ipynb](https://github.com/youssefboutaleb/colorizeblack-whitephotos/blob/main/Notebook.ipynb)
 * [Colab](https://colab.research.google.com/drive/1d7gkoocjpD1QvpGxK9Vm7seTZDSqB0Wj?usp=sharing)
 ## Alpha Version
