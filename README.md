@@ -34,7 +34,7 @@ The full version adds information from a pre-trained classifier. You can think o
 
 The model comes from an elegant insight by [Baldassarre and his team.](https://github.com/baldassarreFe/deep-koalarization)
 
-<p align="center"><img src="/README_images/full.png?raw=true" width="750px"></p>
+<p align="center"><img src="/README_images/full.PNG?raw=true" width="750px"></p>
 
 I
 For this model, I'd go with a this [Linnaeus 5 dataset ](http://chaladze.com/l5/)
