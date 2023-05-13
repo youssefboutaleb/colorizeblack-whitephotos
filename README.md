@@ -5,14 +5,14 @@ This is an academic project titled "Colorize Black-White Photos" aims to develop
 
 
 
+<div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_ENIS_Sfax.png" /></div>
 
-![img|255x255](https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_ENIS_Sfax.png)
 
 
 ## Presentaion & Code
-* [Presentation](https://github.com/youssefboutaleb/colorizeblack-whitephotos/presentation.pptx)
+* [Presentation](https://github.com/youssefboutaleb/colorizeblack-whitephotos/blob/main/presentation.pptx)
 
-* [Code.ipynb](https://github.com/youssefboutaleb/colorizeblack-whitephotos/Notebook.ipynb)
+* [Code.ipynb](https://github.com/youssefboutaleb/colorizeblack-whitephotos/blob/main/Notebook.ipynb)
 * [Colab](https://colab.research.google.com/drive/1d7gkoocjpD1QvpGxK9Vm7seTZDSqB0Wj?usp=sharing)
 ## Alpha Version
 This is a great starting point to get a hang of the moving pieces. How an image is transformed into RGB pixel values and later translated into LAB pixel values, [changing the color space](https://ciechanow.ski/color-spaces/). It also builds a core intuition for how the network learns. How the network compares the input with the output and adjusts the network. 
